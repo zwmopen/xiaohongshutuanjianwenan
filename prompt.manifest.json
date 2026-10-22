@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "version": "2026.10.22",
+  "updatedAt": "2026-10-23",
+  "prompts": [
+    {
+      "id": "teambuilding-copy-skill-public",
+      "title": "团建文案 Skill｜公开版｜小红书自然攻略／小红书高密度种草／抖音攻略 三版",
+      "files": [
+        { "path": "SKILL.md", "stripFrontmatter": true },
+        { "path": "references/title-rules.md", "heading": "## 附：参考文件（来自 references/）\n\n### 标题规则（title-rules.md）" },
+        { "path": "references/public-rules.md", "heading": "### 公开版总规则（public-rules.md）" },
+        { "path": "references/high-density-template.md", "heading": "### 高密度种草模板（high-density-template.md）" },
+        { "path": "references/high-density-example.md", "heading": "### 高密度种草示例（high-density-example.md）" }
+      ]
+    }
+  ]
+}
